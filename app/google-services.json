@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "891007131097",
+    "firebase_url": "https://estudiantefb.firebaseio.com",
+    "project_id": "estudiantefb",
+    "storage_bucket": "estudiantefb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891007131097:android:6e61336f9129aba1",
+        "android_client_info": {
+          "package_name": "com.android.cursos.firebaseestudiantes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891007131097-qnf38j8cvrp841bkibbndi3gaig5a8k6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.cursos.firebaseestudiantes",
+            "certificate_hash": "eda560d3fe44dcf058935daf341714f336b5b1ac"
+          }
+        },
+        {
+          "client_id": "891007131097-5he8n81nsag0i985ns9ko56vobag5s5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcq9rCqNCsuUQinFwwz4dUvwISVRq4h18"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891007131097-5he8n81nsag0i985ns9ko56vobag5s5t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
